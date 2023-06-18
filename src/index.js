@@ -1,3 +1,4 @@
+// ไฟล์ index.js นี้จะเป็นตัวเชื่อมระหว่างไฟล์ index.html กับ App.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
